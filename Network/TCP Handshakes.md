@@ -31,3 +31,6 @@
     2. 요청자로부터 FIN 패킷을 받은 수신자는 ACK 패킷을 요청자에게 보낸다.
     3. 수신자는 자신의 데이터 처리가 모두 끝났다면 요청자에게 FIN 패킷을 보낸다.
     4. 요청자는 connection 종료를 의미하는 ACK 패킷을 보낸다.
+
+## Reference
+- https://evan-moon.github.io/2019/11/17/tcp-handshake/
