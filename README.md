@@ -7,14 +7,18 @@
 
 **📖 Contents**
 1. [Network](#1-network)
+2. [Operating System](#2-operating-system)
+
+[👩‍🏫 예상 질문](./%EC%98%88%EC%83%81%20%EC%A7%88%EB%AC%B8.md)
 
 ## 1. Network
-- [OSI 7계층, TCP/IP 4계층]()
+- [OSI 7계층, TCP/IP 4계층](./Network/OSI%207%EA%B3%84%EC%B8%B5%2C%20TCP%3AIP%204%EA%B3%84%EC%B8%B5.md)
 - [TCP와 UDP]()
-- [TCP 3, 4 way handshake]()
-- [흐름제어/혼잡제어]()
+- [TCP 3, 4 way handshake](./Network/TCP%20Handshakes.md)
+- [흐름제어/혼잡제어](./Network/%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4%EC%99%80%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4.md)
 - [HTTP와 HTTPS]()
 
+## 2. Operating System
 
 ## 스터디원
 | 김승미 | 김혜인 | 김혜지 | 서채원 | 임수정 |
