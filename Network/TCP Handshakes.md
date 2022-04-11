@@ -2,7 +2,8 @@
 
 ## 3-way handshake
 
-![CleanShot 2022-04-11 at 17.41.21@2x.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10897de8-d548-404b-8608-bd88383097d9/CleanShot_2022-04-11_at_17.41.212x.png)
+![3-way](https://user-images.githubusercontent.com/46441723/162701026-437a9c69-6122-4845-b436-0c45985bd2da.png)
+
 
 - TCP 프로토콜에서 데이터 수신 측과 송신 측이 connection(session이라고도 한다)을 수립하는 과정이다.
 - connection을 수립해야지만 수신 측과 송신 측은 데이터를 주고 받을 수 있는 상태가 된다.
@@ -21,7 +22,7 @@
 
 ## 4-way handshake
 
-![CleanShot 2022-04-11 at 17.41.05@2x.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e9cc0b2-e194-4073-bd69-616aefd4c120/CleanShot_2022-04-11_at_17.41.052x.png)
+![4-way](https://user-images.githubusercontent.com/46441723/162700922-3e941938-b535-4f96-ab4e-77ee5b87182b.png)
 
 - 3-way handshake를 통해 수립되었던 connection을 종료해야 정상적으로 데이터 송, 수신이 완료가 된다.
 - 수신 측, 송신 측 상관 없이 connection을 끊을 수 있다.
