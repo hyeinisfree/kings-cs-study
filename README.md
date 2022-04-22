@@ -19,7 +19,7 @@
 - [HTTP와 HTTPS]()
 
 ## 2. Operating System
-
+- [멀티 스레드](./OperatingSystem/%EB%A9%80%ED%8B%B0%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 ## 스터디원
 | 김승미 | 김혜인 | 김혜지 | 서채원 | 임수정 |
 |:-:|:-:|:-:|:-:|:-:|
