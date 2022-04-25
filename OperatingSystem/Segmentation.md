@@ -76,7 +76,7 @@ best-fit은 크기가 큰 공간 중에서 세그먼트 크기와 가장 차이�
 이 방법을 사용하면 세그먼테이션의 장점과 더불어   
 메모리에는 일정한 크기의 페이지들이 저장되므로 외부단편화가 발생할 가능성이 줄어든다.
 
-![image](https://user-images.githubusercontent.com/41771874/165046716-2e7d911b-a1b1-4a96-a6c9-72874f2a189e.png)
+<center><img src="https://user-images.githubusercontent.com/41771874/165046716-2e7d911b-a1b1-4a96-a6c9-72874f2a189e.png" width="500"></center>
 
 세그먼트가 여러개의 페이지로 나뉘어 저장되는 모습
 
