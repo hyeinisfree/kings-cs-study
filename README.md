@@ -12,13 +12,15 @@
 [👩‍🏫 예상 질문](./%EC%98%88%EC%83%81%20%EC%A7%88%EB%AC%B8.md)
 
 ## 1. Network
-- [OSI 7계층, TCP/IP 4계층](./Network/OSI%207%EA%B3%84%EC%B8%B5%2C%20TCP%20IP%204%EA%B3%84%EC%B8%B5.md)
+> week1 : 2022.04.11
+- [OSI 7계층, TCP/IP 4계층](./Network/OSI%207%EA%B3%84%EC%B8%B5%2C%20TCP%3AIP%204%EA%B3%84%EC%B8%B5.md)
 - [TCP와 UDP](./Network/TCP%EC%99%80%20UDP.md)
 - [TCP 3, 4 way handshake](./Network/TCP%20Handshakes.md)
 - [흐름제어/혼잡제어](./Network/%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4%EC%99%80%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4.md)
 - [HTTP와 HTTPS]()
 
 ## 2. Operating System
+> week2 : 2022.04.18
 - [멀티 스레드](./OperatingSystem/%EB%A9%80%ED%8B%B0%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 - [문맥 교환]
 - [뮤텍스와 세마포어](./OperatingSystem/%EB%AE%A4%ED%85%8D%EC%8A%A4%EC%99%80%20%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4.md)
@@ -26,6 +28,7 @@
 - [프로세스]
 
 ## 3. Operating System
+> week3 : 2022.04.25
 - [동기/비동기, 블로킹/논블로킹](./OperatingSystem/%EB%8F%99%EA%B8%B0%2C%EB%B9%84%EB%8F%99%EA%B8%B0.md)
 - [세그먼트]
 - [가상 메모리](./OperatingSystem/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
@@ -33,6 +36,7 @@
 - [스케줄링]
 
 ## 4. Data Structure
+> week4 : 2022.05.02
 - [Array & Linked List](./DataStructure/Array&LinkedList.md)
 - [스택 & 큐]
 - [힙](./DataStructure/%ED%9E%99.md)
@@ -40,6 +44,7 @@
 - [해시]
 
 ## 5. Algorithm
+> week5 : 2022.05.09
 - [동적 알고리즘]
 - [탐욕법]
 - [백트래킹](./Algorithm/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9.md)
@@ -47,6 +52,7 @@
 - [bfs]
 
 ## 6. Database
+> week6 : 2022.05.16
 - [INDEX]
 - [정규화]
 - [트랜잭션]
