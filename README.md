@@ -20,6 +20,40 @@
 
 ## 2. Operating System
 - [멀티 스레드](./OperatingSystem/%EB%A9%80%ED%8B%B0%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+- [문맥 교환]
+- [세마포어]
+- [데드락]
+- [프로세스]
+
+## 3. Operating System
+- [동기/비동기]
+- [세그먼트]
+- [가상 메모리](./OperatingSystem/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
+- [페이징]
+- [스케줄링]
+
+## 4. Data Structure
+- [Array & Linked List]
+- [스택 & 큐]
+- [힙](./DataStructure/%ED%9E%99.md)
+- [B Tree]
+- [해시]
+
+## 5. Algorithm
+- [동적 알고리즘]
+- [탐욕법]
+- [백트래킹]
+- [dfs]
+- [bfs]
+
+## 6. Database
+- [INDEX]
+- [정규화]
+- [트랜잭션]
+- [JOIN]
+- [RDBMS]
+
+
 ## 스터디원
 | 김승미 | 김혜인 | 김혜지 | 서채원 | 임수정 |
 |:-:|:-:|:-:|:-:|:-:|
