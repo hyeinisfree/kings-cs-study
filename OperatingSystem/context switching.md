@@ -4,7 +4,7 @@
 
 프로그램이 커널에 등록되고 커널의 관리를 받으면서 프로세스가 된다. 이때 프로세스 관리 블록(이하 PCB)을 할당받는다. PCB는 메모리의 커널영역에 존재하고 각 프로세스들에 대한 정보를 관리한다.
 
-![untitled](https://github.com/imim-seung/test1/issues/3#issue-1244969360)
+![Untitled](https://user-images.githubusercontent.com/46683113/169804222-400f81d8-1773-4479-935e-58b433a2cf1d.png){: width="200" height="200"}
 
 - PCB 가 관리하는 정보 (OS 별로 상이)
     1. process-id : 새로운 프로세스에 시스템이 할당해주는 고유 id
@@ -21,9 +21,9 @@
 
 ### Process state transition diagram, Memory
 
-![IMG_633435723C9F-1](https://user-images.githubusercontent.com/46683113/169802951-6a548129-dc9e-467c-8e69-d107e123ab9d.jpeg)
+![IMG_633435723C9F-1](https://user-images.githubusercontent.com/46683113/169802951-6a548129-dc9e-467c-8e69-d107e123ab9d.jpeg){: width="200" height="200"}
 
-![IMG_D106604ED505-1](https://user-images.githubusercontent.com/46683113/169803194-81c8faff-41b3-4345-bbdf-7da7d958f643.jpeg)
+![IMG_D106604ED505-1](https://user-images.githubusercontent.com/46683113/169803194-81c8faff-41b3-4345-bbdf-7da7d958f643.jpeg){: width="200" height="200"}
 
 ### context switching 흐름
 
