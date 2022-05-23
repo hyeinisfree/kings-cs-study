@@ -56,7 +56,7 @@
 - [INDEX]
 - [정규화]
 - [트랜잭션]
-- [JOIN]
+- [JOIN](./Database/JOIN.md)
 - [RDBMS]
 
 
