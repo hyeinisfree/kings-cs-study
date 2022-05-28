@@ -46,7 +46,7 @@
 ## 4. Algorithm
 > week5 : 2022.05.09
 - [동적 알고리즘]
-- [탐욕법]
+- [탐욕법](./Algorithm/%ED%83%90%EC%9A%95%EB%B2%95.md)
 - [백트래킹](./Algorithm/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9.md)
 - [dfs]
 - [bfs]
@@ -55,7 +55,7 @@
 > week6 : 2022.05.16
 - [INDEX]
 - [정규화]
-- [트랜잭션]
+- [트랜잭션](./Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
 - [JOIN](./Database/JOIN.md)
 - [RDBMS]
 
