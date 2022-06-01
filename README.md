@@ -62,7 +62,7 @@
 
 ## 6. Design Pattern
 > week7 : 2022.05.30
-- [추상 팩토리]
+- [추상 팩토리](./DesignPattern/Abstract-Factory-Pattern.md)
 - [빌더](./DesignPattern/Builder.md)
 - [팩토리 메서드]
 - [프로토타입](./DesignPattern/prototypePattern.md)
