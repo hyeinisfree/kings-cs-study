@@ -20,7 +20,7 @@ GoF 디자인 패턴 중 **구조** 패턴
 ## 구조
 ![bridge](https://user-images.githubusercontent.com/60397314/172100591-69355874-2e35-4785-b4e7-555b4011a1fb.png)  
 - Abstraction: 기능 계층의 최상위 클래스로 추상 인터페이스
-- RefindAbstraction: 기능 계층에서 새로운 부분을 확장한 클래스
+- RefinedAbstraction: 기능 계층에서 새로운 부분을 확장한 클래스
 - Implementor: Abstraction의 기능을 구현하기 위한 인터페이스 정의
 - ConcreteImplementor: 실제 기능을 구현하는 클래스
 
@@ -58,7 +58,7 @@ public class Animal {
 ```
 - 객체 생성과 기능에 대한 method 정의
 ---
-### RefindedAbstraction
+### RefinedAbstraction
 ```javascript
 public class Bird extends Animal
 {
