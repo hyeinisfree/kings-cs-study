@@ -1,5 +1,3 @@
-# HTTP와 HTTPS
-
 ## HTTP?
 
  **HTTP**는 Hyper Text Transfer Protocol의 줄임말으로써 서버와 클라이언트간에 데이터를 주고 받는 프로토콜. HTTP는 텍스트, 이미지,영상, JSON 등등 거의 **모든 형태의 데이터**를 전송(HTML을 전송하기 위한 통신 규약으로 등장 ) HTTP는 1997년 만들어진 HTTP/1.1가 가장 보편화 되어있으며, 현재는 HTTP/2를 거쳐 HTTP/3까지 개발된 상태입니다. 
@@ -8,7 +6,8 @@
 
 ### [HTTPS?](https://devjem.tistory.com/3#HTTPS%-F)
 
-![Screen Shot 2022-04-11 at 3.29.12 PM.png](HTTP%E1%84%8B%E1%85%AA%20HTT%20e6eb9/Screen_Shot_2022-04-11_at_3.29.12_PM.png)
+<img width="1000" alt="https적용 화면" src="https://user-images.githubusercontent.com/46683113/172116853-3acc1514-0003-44aa-a6b9-70406aab1600.png">
+
 
 **HTTPS**가 적용되었다는걸 알려주는게 바로 저 자물쇠 입니다. HTTPS가 옛날부터 보편화되어있지는 않았습니다. 처음에는 **전자상거래** 등 고객의 중요 정보를 다루는 사이트 위주로 사용되었습니다. 그러다가 2014년 구글에서는 HTTP를 HTTPS로 변환하라고 권고하기 시작합니다. 구글은 HTTPS를 적용하는 사이트들에게 **SEO(검색 엔진 최적화)**에 있어서 가산점을 주겠다고 합니다. 사용자 정보의 안전성도 보장받고, 사용자들의 웹사이트 유입도 늘릴수 있으니 HTTPS로 변환할 이유는 충분했을겁니다. 이는 구글 투명성 보고서로 지속적으로 관리하고 있습니다. 
 
@@ -19,7 +18,8 @@
     SSL은 원래 Netscape에 의해 개발되었으며 1995년 SSL 2.0 (1.0은 대중에게 공개되지 않음)을 통해 처음으로 등장했습니다. 몇가지 취약점이 발견된후 1996년에 버전 2.0이 SSL 3.0으로 빠르게 대체되었습니다. 참고로 버전 2.0 및 3.0은 때로 SSLv2 및 SSLv3으로 표기됩니다. TLS는 1999년에 새 버전의 SSL으로서 도입되었으며 SSL 3.0을 기반으로 했습니다.
     
 
-![Untitled](HTTP%E1%84%8B%E1%85%AA%20HTT%20e6eb9/Untitled.png)
+![http+ssl](https://user-images.githubusercontent.com/46683113/172117012-b94e00a7-52c6-41d5-9ad7-3100071977a2.png)
+
 
 ### 공개키 암호화 방식
 
@@ -49,13 +49,13 @@
 
 [Google Transparency Report](https://transparencyreport.google.com/https/certificates?hl=ko-kr&cert_search_auth=&cert_search_cert=&cert_search=include_subdomains:false;domain:www.naver.com&lu=cert_search)
 
-![Screen Shot 2022-04-11 at 4.25.48 PM.png](HTTP%E1%84%8B%E1%85%AA%20HTT%20e6eb9/Screen_Shot_2022-04-11_at_4.25.48_PM.png)
+<img width="1000" alt="1" src="https://user-images.githubusercontent.com/46683113/172117126-288919a2-f7dc-4e48-88af-3aeb9726ab88.png">
 
-![Screen Shot 2022-04-11 at 4.26.47 PM.png](HTTP%E1%84%8B%E1%85%AA%20HTT%20e6eb9/Screen_Shot_2022-04-11_at_4.26.47_PM.png)
+<img width="1000" alt="2" src="https://user-images.githubusercontent.com/46683113/172117232-453d754c-1e44-4871-9c2d-0261bfa9797a.png">
 
-![Screen Shot 2022-04-11 at 4.31.07 PM.png](HTTP%E1%84%8B%E1%85%AA%20HTT%20e6eb9/Screen_Shot_2022-04-11_at_4.31.07_PM.png)
+<img width="1000" alt="3" src="https://user-images.githubusercontent.com/46683113/172117297-421d2e80-27fe-464d-b6ca-cacda0e1e833.png">
 
-![Screen Shot 2022-04-11 at 4.21.24 PM.png](HTTP%E1%84%8B%E1%85%AA%20HTT%20e6eb9/Screen_Shot_2022-04-11_at_4.21.24_PM.png)
+<img width="1000" alt="4" src="https://user-images.githubusercontent.com/46683113/172117585-350b7340-c62d-404c-a12d-179aa83983ea.png">
 
 ---
 
